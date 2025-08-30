@@ -36,7 +36,7 @@ The notebook includes several charts created using **Matplotlib** and **Seaborn*
 - Airline frequency (horizontal bar chart)  
 - Price variation by airlines (bar plot)  
 - Non-stop vs stops price comparison across airlines (bar plot)  
-- Economy vs Business class price comparison (bar plot with airline hue)  
+- Economy vs Business class price comparison (bar plot)  
 - Price variation by days left before departure (point plot)  
 - Average price by departure time and class (point plot)
 ---
