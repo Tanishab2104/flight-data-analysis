@@ -24,7 +24,8 @@ The dataset includes:
 - Q1: Looking up flights based on user-entered Source, Destination, and Class  
 - Q2: What are the airlines in the dataset (with their frequency)?  
 - Q3: Are non-stop flights significantly more expensive than flights with 1+ stops?
-- Q4: Does price vary with airlines?  
+- Q4: Does price vary with airlines?
+- Q5: Does ticket price change based on the departure time?
 - Q6: How is the price affected when tickets are bought 1 or 2 days before departure?  
 - Q7: How does the ticket price vary between Economy and Business class?  
 
